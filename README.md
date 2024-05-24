@@ -1,7 +1,5 @@
-Certainly! Here's how you can structure your GitHub repository for the "Auto Mob Service" project:
-
 ### 1. Repository Name:
-Choose a clear and descriptive name for your repository, such as "AutoMobService" or "AutoMob-Website."
+ "AutoMobService" 
 
 ### 2. README.md:
 Create a README file (`README.md`) to provide an overview of your project. Include the following sections:
